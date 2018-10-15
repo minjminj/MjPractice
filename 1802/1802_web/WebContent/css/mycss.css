@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+
+#title{
+	font-family: 'Gaegu', cursive;
+	border-left: 10px solid #ff5555;
+	padding-left: 10px;
+	box-sizing: border-box;
+	background: #ffeeee;
+	border-radius:45px 45px 45px 45px;
+	
+}
+#lid{
+	font-family: 'Gaegu', cursive;
+	border-left: 10px solid #ff5555;
+	padding-left: 10px;
+	box-sizing: border-box;
+	background: #ffeeee;
+	border-radius:45px 45px 45px 45px;
+}
+#lpw{
+	font-family: 'Gaegu', cursive;
+	border-left: 10px solid #ff5555;
+	padding-left: 10px;
+	box-sizing: border-box;
+	background: #ffeeee;
+	border-radius:45px 45px 45px 45px;
+}
+#lgu{
+	font-family: 'Gaegu', cursive;
+	border-left: 10px solid #ff5555;
+	padding-left: 10px;
+	box-sizing: border-box;
+	background: #ffeeee;
+	border-radius:45px 45px 45px 45px;
+}
+
+
+
+#result{
+	border:3px outset #ffeeee;
+	padding:10px;
+	box-sizing:border-box;
+	width:300px; height:350px;
+	border-radius:45px 45px 45px 45px;
+}

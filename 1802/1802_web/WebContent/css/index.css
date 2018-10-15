@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+
+#content{
+	min-height: 160px;
+	background-color: #eeeeee;
+	margin: 10px auto;
+}
+#nav{
+	background-color: #cccccc;
+	float: left;
+	margin:10px auto;
+	border: 1px solid #eeeeee;
+	width:130px;
+	height:150px;
+}
+#aside{
+	background-color: #cccccc;
+	float: right;
+	margin:10px auto;
+	border: 1px solid #eeeeee;
+	width:130px;
+	height:150px;
+}
+#section{
+	margin:10px auto;
+	float: left;
+	border:2px solid #ff0000;
+	width:530px;
+	height:150px;
+	background-color:#00eeee;
+}
